@@ -18,7 +18,7 @@
     "symbol": "HODLCOIN",
     "decimals": 9,
     "chainId": 56,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/hodlcoin-crypto/hodl-token-list/main/hodl-primary.png"
   },  
  {
     "name": "Wrapped BNB",
