@@ -2,7 +2,7 @@
   "name": "Uniswap Default List",
   "timestamp": "2021-04-23T02:56:56.096Z",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 8,
     "patch": 3
   },
@@ -15,7 +15,7 @@
   "tokens": [
     {
     "name": "HODLCOIN",
-    "address": "0xeDF9843183F99D69adeaa5dBa99cd111fF2f9069",
+    "address": "0x43fab11c953afb4df88e2c1d42e9ed12c276859d",
     "symbol": "HODLCOIN",
     "decimals": 9,
     "chainId": 56,
@@ -94,30 +94,6 @@
       "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
     },
     {
-      "name": "SUSHI Token",
-      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
-      "symbol": "SUSHI",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
-    },
-    {
-      "name": "TOOLS",
-      "address": "0x1311b352467d2B5c296881BaDEA82850bcd8f886",
-      "symbol": "TOOLS",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/bsctools/bsctools-documentation/main/bsc-tools-logo.png"
-    },
-    {
-      "name": "Twinci Token",
-      "address": "0xAF83F292fcED83032f52ced45ef7DBDdb586441a",
-      "symbol": "TWIN",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://bscscan.com/token/images/twinci_32.png"
-    },
-    {
       "name": "Tether USD",
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "symbol": "USDT",
@@ -140,22 +116,6 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
-    },
-    {
-      "name": "XPO Token",
-      "address": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d",
-      "symbol": "XPO",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/bsc-tools/media/master/assets/logo/0xebb59cebfb63f218db6b5094dc14abf34d56d35d.png"
-    },
-    {
-      "name": "XRP Token",
-      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-      "symbol": "XRP",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
     }
   ]
 }
